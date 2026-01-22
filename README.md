@@ -42,8 +42,13 @@ I am an **IT Teacher** with **9 years of experience** in mentoring students in c
 ---
 
 ### 🚀 Featured Projects
-*Coming soon as I build my Data Science portfolio...*
-*(Tip: Replace this line with links to your best repositories once they are ready!)*
+
+| Project Name | Tech Stack | Key Features | View Project |
+| :--- | :--- | :--- | :--- |
+| **Heart Disease Prediction** | Python, Scikit-Learn | Predicts the likelihood of heart disease using medical attributes. | [View Repo](#) |
+| **Customer Churn Prediction** | Python, Pandas, ML | Analyzes customer behavior to predict potential turnover. | [View Repo](#) |
+| **Bank Management System** | Python, MySQL | A full-stack management system for banking operations. | [View Repo](#) |
+| **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo](#) |
 
 ---
 
