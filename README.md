@@ -45,11 +45,10 @@ I am an **IT Teacher** with **9 years of experience** in mentoring students in c
 
 | Project Name | Tech Stack | Key Features | View Project |
 | :--- | :--- | :--- | :--- |
-| **Heart Disease Prediction** | Python, Scikit-Learn | Predicts the likelihood of heart disease using medical attributes. | [View Repo]([#](https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML)) |
+| **Heart Disease Prediction** | Python, Scikit-Learn | Predicts the likelihood of heart disease using medical attributes. | [View Repo]((https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML)) |
 | **Customer Churn Prediction** | Python, Pandas, ML | Analyzes customer behavior to predict potential turnover. | [View Repo]((https://github.com/SyedaNazneen/Customer-Churn-Prediction)) |
 | **Bank Management System** | Python, MySQL | A full-stack management system for banking operations. | [View Repo]((https://github.com/SyedaNazneen/BankMangement)) |
-| **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo]((https://github.com/SyedaNazneen/SLR-Height-Predictor)) |
-
+| **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo](https://github.com/SyedaNazneen/SLR-Height-Predictor) |
 ---
 
 ### 📊 GitHub Ecosystem
