@@ -52,20 +52,22 @@ I am an **IT Teacher** with **9 years of experience** in mentoring students in c
 
 ---
 
----
-
 ### 📊 GitHub Ecosystem
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedaNazneen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNazneen&layout=compact&langs_count=7&theme=dark" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedaNazneen&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNazneen&layout=compact&langs_count=7&theme=radical" />
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaNazneen&theme=dark&hide_border=true" alt="Syeda's GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaNazneen&theme=radical" />
 </div>
-
----
 
 ---
 
