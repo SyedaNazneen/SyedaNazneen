@@ -49,6 +49,7 @@ I am an **IT Teacher** with **9 years of experience** in mentoring students in c
 | **Customer Churn Prediction** | Python, Pandas, ML | Analyzes customer behavior to predict potential turnover. | [View Repo](https://github.com/SyedaNazneen/Customer-Churn-Prediction) |
 | **Bank Management System** | Python, MySQL | A full-stack management system for banking operations. | [View Repo](https://github.com/SyedaNazneen/BankMangement) |
 | **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo](https://github.com/SyedaNazneen/SLR-Height-Predictor) |
+| **Salary Prediction Engine** | Flask, Scikit-Learn, HTML/CSS | Predicts salaries based on experience with localized INR currency formatting. | [View Repo](https://github.com/SyedaNazneen/End-to-End-Salary-Estimation-Engine) |
 ---
 
 ### 📊 GitHub Ecosystem
