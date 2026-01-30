@@ -50,6 +50,7 @@ I am an **IT Teacher** with **9 years of experience** in mentoring students in c
 | **Bank Management System** | Python, MySQL | A full-stack management system for banking operations. | [View Repo](https://github.com/SyedaNazneen/BankMangement) |
 | **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo](https://github.com/SyedaNazneen/SLR-Height-Predictor) |
 | **Salary Prediction Engine** | Flask, Scikit-Learn, HTML/CSS | Predicts salaries based on experience with localized INR currency formatting. | [View Repo](https://github.com/SyedaNazneen/Salary-Prediction)|
+| **House Price Prediction using Multiple Linear Regression** | Python, Scikit-Learn, Flask, HTML, Bootstrap | End-to-end ML project that predicts house prices using 14 numerical features. Includes data preprocessing, model training, Flask-based backend, responsive UI, and live deployment on Render. | [Live App](https://house-price-prediction-using-multiple.onrender.com) · [View Repo](https://github.com/SyedaNazneen/House-Price-Prediction-Using-Multiple-Linear-Regression) |
 ---
 
 ### 📊 GitHub Ecosystem
