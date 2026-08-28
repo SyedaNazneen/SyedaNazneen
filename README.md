@@ -153,6 +153,19 @@ I am open to opportunities and collaborations related to:
 
 📺 **YouTube:** [Code With Nazneen](http://www.youtube.com/@CodewithNazneen-011)
 
+## Open to Opportunities
+
+I am open to opportunities in:
+
+- Data Science
+- Machine Learning
+- AI Applications
+- Python Development
+- Data Analysis
+- Technical Training & Education
+
+📧 Feel free to reach out for professional opportunities, collaborations or project discussions.
+
 ---
 
 <div align="center">
