@@ -26,13 +26,13 @@
 
 ## About Me
 
-I am an IT Educator and AI & Data Science enthusiast with 9 years of experience in technical education and mentoring.
+I am an IT Educator with 9 years of experience in technical education and mentoring, currently focused on Artificial Intelligence and Data Science.
 
-My work focuses on Python, Data Analysis, Machine Learning, Deep Learning and AI-powered applications. I enjoy building practical projects, exploring real-world datasets and continuously improving my technical skills.
+My technical interests include Python, Data Analysis, Machine Learning, Deep Learning and Computer Vision. I enjoy building practical, end-to-end projects that apply AI and Machine Learning to real-world problems.
 
-Alongside my professional work, I create educational content through my YouTube channel, **Code With Nazneen**, where I help learners understand programming, Data Science and Artificial Intelligence.
+Alongside my technical work, I create educational content through my YouTube channel, Code With Nazneen, where I share learning resources related to Python, Data Science, Artificial Intelligence and emerging technologies.
 
-**Currently focused on:** Building real-world AI and Machine Learning projects and expanding my expertise in Data Science.
+I am continuously building my portfolio through hands-on projects and exploring opportunities to contribute my technical and problem-solving skills in AI and Data Science.
 
 ---
 
