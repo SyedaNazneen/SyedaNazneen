@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SyedaNazneen/Syeda-Nazneen/blob/main/Blue%20and%20White%20Modern%20Business%20YouTube%20Banner%20(2).jpg" width="100%" alt="Syeda Nazneen Banner"/>
+<img src="https://raw.githubusercontent.com/SyedaNazneen/SyedaNazneen/main/github-banner.png" width="100%" alt="Syeda Nazneen - AI & Data Science"/>
 
 # Hi, I'm Syeda Nazneen 👋
 
