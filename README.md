@@ -4,8 +4,7 @@
 
 # Hi, I'm Syeda Nazneen 👋
 
-### AI & Data Science Professional | Python | Machine Learning | Deep Learning | Technical Educator
-
+### Data Science & AI Enthusiast | Python | Machine Learning | Technical Educator
 <p>
   <a href="https://www.linkedin.com/in/syeda-nazneen-76525a320/">
     LinkedIn
@@ -24,109 +23,74 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am an IT Educator with 9 years of experience in technical education and mentoring, currently focused on Artificial Intelligence and Data Science.
+I am an IT Educator with 9 years of experience in teaching Computer Science and technology. I am currently building my career in Data Science and Artificial Intelligence, with hands-on experience in Python, data analysis, machine learning, and end-to-end project development.
 
-My technical interests include Python, Data Analysis, Machine Learning, Deep Learning and Computer Vision. I enjoy building practical, end-to-end projects that apply AI and Machine Learning to real-world problems.
+I enjoy transforming real-world problems into practical, data-driven solutions and continuously expanding my skills through projects and continuous learning.
 
-Alongside my technical work, I create educational content through my YouTube channel, Code With Nazneen, where I share learning resources related to Python, Data Science, Artificial Intelligence and emerging technologies.
-
-I am continuously building my portfolio through hands-on projects and exploring opportunities to contribute my technical and problem-solving skills in AI and Data Science.
+- 🔭 Currently building Machine Learning and AI projects
+- 🌱 Learning and strengthening my skills in Data Science and Deep Learning
+- 💡 Interested in Data Analysis, Machine Learning, AI, and real-world problem solving
+- 🎓 Technical Educator with experience in teaching programming and technology
+- 🎥 Creator of **Code With Nazneen**, where I share programming and technology content
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-### Programming & Data
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
+### Programming & Data Analysis
+`Python` • `NumPy` • `Pandas` • `Matplotlib`
 
 ### Machine Learning
-
-- Regression
-- Classification
-- Feature Engineering
-- Model Evaluation
-- Scikit-learn
+`Scikit-learn` • `Regression` • `Classification` • `Feature Engineering` • `Model Evaluation`
 
 ### Deep Learning & AI
-
-- Artificial Neural Networks
-- Convolutional Neural Networks
-- Computer Vision
-- OpenCV
-- Generative AI
-
-### Data & Visualization
-
-- Power BI
-- Tableau
-- Microsoft Excel
+`Artificial Neural Networks (ANN)` • `Convolutional Neural Networks (CNN)` • `OpenCV`
 
 ### Development & Deployment
+`Flask` • `HTML` • `CSS` • `Git` • `GitHub` • `Render`
 
-- Flask
-- Streamlit
-- HTML
-- CSS
-- Git & GitHub
-- Render
+### Tools
+`Google Colab` • `Jupyter Notebook` • `Power BI` • `Canva`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🏠 House Price Prediction
+**Machine Learning | Multiple Linear Regression | Flask | Deployment**
 
-An end-to-end Machine Learning application that predicts house prices using Multiple Linear Regression.
+An end-to-end Machine Learning application that predicts house prices using multiple numerical features. The project includes data preprocessing, feature selection, model training, evaluation, and a Flask-based web application.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS
-
-[Live Application](https://house-price-prediction-using-multiple.onrender.com) · [View Repository](https://github.com/SyedaNazneen/House-Price-Prediction-Using-Multiple-Linear-Regression)
-
----
-
-### 🌱 Plant Disease Prediction System
-
-A Machine Learning / Deep Learning project focused on identifying plant diseases from leaf images.
-
-**Technologies:** Python, Deep Learning, Computer Vision
-
-[View Repository](YOUR_REPOSITORY_LINK)
+🔗 [Live Demo](https://house-price-prediction-using-multiple.onrender.com) · [View Repository](https://github.com/SyedaNazneen/House-Price-Prediction-Using-Multiple-Linear-Regression)
 
 ---
 
 ### 📊 Customer Churn Prediction
+**Python | Pandas | Machine Learning | Data Analysis**
 
-A Machine Learning project designed to analyze customer data and predict potential customer churn.
+A Machine Learning project focused on identifying customers who are likely to leave a service. The project analyzes customer-related features and builds a predictive model to support data-driven retention strategies.
 
-**Technologies:** Python, Pandas, Machine Learning
-
-[View Repository](https://github.com/SyedaNazneen/Customer-Churn-Prediction)
+🔗 [View Repository](https://github.com/SyedaNazneen/Customer-Churn-Prediction)
 
 ---
 
 ### ❤️ Heart Disease Prediction
+**Python | Scikit-learn | Classification | Data Analysis**
 
-A Machine Learning model that predicts the likelihood of heart disease based on relevant input features.
+A classification-based Machine Learning project that predicts the likelihood of heart disease using relevant input features. The project focuses on data preprocessing, model training, and performance evaluation.
 
-**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
-
-[View Repository](https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML)
+🔗 [View Repository](https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML)
 
 ---
 
-### 💼 Salary Prediction Application
+### 💰 Salary Prediction Application
+**Python | Machine Learning | Flask | HTML | CSS**
 
-A Machine Learning application that predicts salary based on professional experience.
+A web-based Machine Learning application that predicts salary based on experience. The project integrates a trained ML model with a Flask backend and a user-friendly interface.
 
-**Technologies:** Python, Scikit-learn, Flask, HTML, CSS
-
-[View Repository](https://github.com/SyedaNazneen/Salary-Prediction)
+🔗 [View Repository](https://github.com/SyedaNazneen/Salary-Prediction)
 
 ---
 
@@ -145,26 +109,28 @@ I am open to opportunities and collaborations related to:
 
 ---
 
-## Let's Connect
+---
 
-📧 **Email:** syedanazneen144@gmail.com
+## 📫 Let's Connect
 
-💼 **LinkedIn:** [Syeda Nazneen](https://www.linkedin.com/in/syeda-nazneen-76525a320/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/syeda-nazneen-76525a320/">
+    LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+  <a href="mailto:syedanazneen144@gmail.com">
+    Email
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://www.youtube.com/@CodewithNazneen-011">
+    Code With Nazneen
+  </a>
+</p>
 
-📺 **YouTube:** [Code With Nazneen](http://www.youtube.com/@CodewithNazneen-011)
-
-## Open to Opportunities
-
-I am open to opportunities in:
-
-- Data Science
-- Machine Learning
-- AI Applications
-- Python Development
-- Data Analysis
-- Technical Training & Education
-
-📧 Feel free to reach out for professional opportunities, collaborations or project discussions.
+---
+<p align="center">
+  <i>Open to opportunities in Data Science, Machine Learning, AI, and Python-based roles.</i>
+</p>
 
 ---
 
