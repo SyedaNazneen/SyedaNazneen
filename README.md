@@ -1,82 +1,164 @@
 <div align="center">
-  <img src="https://github.com/SyedaNazneen/Syeda-Nazneen/blob/main/Blue%20and%20White%20Modern%20Business%20YouTube%20Banner%20(2).jpg" width="100%" alt="Banner"/>
-  
-  <h1>Hi 👋, I'm Syeda Nazneen</h1>
-  <h3>IT Educator | Aspiring Data Scientist | Python & AI Enthusiast</h3>
 
-  <p>
-    <a href="http://www.youtube.com/@CodewithNazneen-011" target="blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://www.linkedin.com/in/syeda-nazneen-76525a320/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:syedanazneen144@gmail.com" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+<img src="https://github.com/SyedaNazneen/Syeda-Nazneen/blob/main/Blue%20and%20White%20Modern%20Business%20YouTube%20Banner%20(2).jpg" width="100%" alt="Syeda Nazneen Banner"/>
 
----
+# Hi, I'm Syeda Nazneen 👋
 
-### 📖 Professional Summary
-I am an **IT Teacher** with **9 years of experience** in mentoring students in computer science and technology. Currently, I am transitioning into **Data Science**, leveraging my strong foundation in Python and Mathematics to extract meaningful insights from data.
+### AI & Data Science Professional | Python | Machine Learning | Deep Learning | Technical Educator
 
-- 🎓 **Role:** IT Teacher at Hazrath Ayesha (RA) Junior College.
-- 🌱 **Learning:** Advanced Data Analysis, Machine Learning Algorithms, and Big Data.
-- 🎯 **Goal:** To solve complex problems using Data Science and AI.
-- 🎥 **Educator:** I run the YouTube channel **"Code With Nazneen"** to help others learn tech.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,mysql,flask,html,css,arduino,sklearn,bots,canva&theme=light" />
+<p>
+  <a href="https://www.linkedin.com/in/syeda-nazneen-76525a320/">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:syedanazneen144@gmail.com">
+    Email
+  </a>
+  &nbsp; • &nbsp;
+  <a href="http://www.youtube.com/@CodewithNazneen-011">
+    YouTube
+  </a>
 </p>
 
-- **Core:** Python (Data Analysis), SQL, Statistics
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Education Tech:** Robotics (Arduino), Canva, AI Tools for Teaching
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Tech Stack | Key Features | View Project |
-| :--- | :--- | :--- | :--- |
-| **Heart Disease Prediction** | Python, Scikit-Learn | Predicts the likelihood of heart disease using medical attributes. | [View Repo](https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML) |
-| **Customer Churn Prediction** | Python, Pandas, ML | Analyzes customer behavior to predict potential turnover. | [View Repo](https://github.com/SyedaNazneen/Customer-Churn-Prediction) |
-| **Bank Management System** | Python, MySQL | A full-stack management system for banking operations. | [View Repo](https://github.com/SyedaNazneen/BankMangement) |
-| **SLR - Height Predictor** | Python, Statistics | Simple Linear Regression model to predict height based on age. | [View Repo](https://github.com/SyedaNazneen/SLR-Height-Predictor) |
-| **Salary Prediction Engine** | Flask, Scikit-Learn, HTML/CSS | Predicts salaries based on experience with localized INR currency formatting. | [View Repo](https://github.com/SyedaNazneen/Salary-Prediction)|
-| **House Price Prediction using Multiple Linear Regression** | Python, Scikit-Learn, Flask, HTML, Bootstrap | End-to-end ML project that predicts house prices using 14 numerical features. Includes data preprocessing, model training, Flask-based backend, responsive UI, and live deployment on Render. | [Live App](https://house-price-prediction-using-multiple.onrender.com) · [View Repo](https://github.com/SyedaNazneen/House-Price-Prediction-Using-Multiple-Linear-Regression) |
----
-
-### 📊 GitHub Ecosystem
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedaNazneen&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNazneen&layout=compact&langs_count=7&theme=radical" />
-      </td>
-    </tr>
-  </table>
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaNazneen&theme=radical" />
 </div>
 
 ---
 
-### 🤝 Let's Connect!
-- 📺 **YouTube:** [Code With Nazneen](http://www.youtube.com/@CodewithNazneen-011)
-- 💼 **LinkedIn:** [Syeda Nazneen](https://www.linkedin.com/in/syeda-nazneen-76525a320/)
-- 📧 **Email:** [syedanazneen144@gmail.com](mailto:syedanazneen144@gmail.com)
+## About Me
+
+I am an IT Educator and AI & Data Science enthusiast with 9 years of experience in technical education and mentoring.
+
+My work focuses on Python, Data Analysis, Machine Learning, Deep Learning and AI-powered applications. I enjoy building practical projects, exploring real-world datasets and continuously improving my technical skills.
+
+Alongside my professional work, I create educational content through my YouTube channel, **Code With Nazneen**, where I help learners understand programming, Data Science and Artificial Intelligence.
+
+**Currently focused on:** Building real-world AI and Machine Learning projects and expanding my expertise in Data Science.
+
+---
+
+## Technical Skills
+
+### Programming & Data
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+### Machine Learning
+
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Scikit-learn
+
+### Deep Learning & AI
+
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Computer Vision
+- OpenCV
+- Generative AI
+
+### Data & Visualization
+
+- Power BI
+- Tableau
+- Microsoft Excel
+
+### Development & Deployment
+
+- Flask
+- Streamlit
+- HTML
+- CSS
+- Git & GitHub
+- Render
+
+---
+
+## Featured Projects
+
+### 🏠 House Price Prediction
+
+An end-to-end Machine Learning application that predicts house prices using Multiple Linear Regression.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS
+
+[Live Application](https://house-price-prediction-using-multiple.onrender.com) · [View Repository](https://github.com/SyedaNazneen/House-Price-Prediction-Using-Multiple-Linear-Regression)
+
+---
+
+### 🌱 Plant Disease Prediction System
+
+A Machine Learning / Deep Learning project focused on identifying plant diseases from leaf images.
+
+**Technologies:** Python, Deep Learning, Computer Vision
+
+[View Repository](YOUR_REPOSITORY_LINK)
+
+---
+
+### 📊 Customer Churn Prediction
+
+A Machine Learning project designed to analyze customer data and predict potential customer churn.
+
+**Technologies:** Python, Pandas, Machine Learning
+
+[View Repository](https://github.com/SyedaNazneen/Customer-Churn-Prediction)
+
+---
+
+### ❤️ Heart Disease Prediction
+
+A Machine Learning model that predicts the likelihood of heart disease based on relevant input features.
+
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
+
+[View Repository](https://github.com/SyedaNazneen/Heart-Disease-Prediction-ML)
+
+---
+
+### 💼 Salary Prediction Application
+
+A Machine Learning application that predicts salary based on professional experience.
+
+**Technologies:** Python, Scikit-learn, Flask, HTML, CSS
+
+[View Repository](https://github.com/SyedaNazneen/Salary-Prediction)
+
+---
+
+## What I'm Interested In
+
+I am open to opportunities and collaborations related to:
+
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Python Development
+- Data Analysis
+- Deep Learning
+- AI Project Development
+- Technical Education & Training
+
+---
+
+## Let's Connect
+
+📧 **Email:** syedanazneen144@gmail.com
+
+💼 **LinkedIn:** [Syeda Nazneen](https://www.linkedin.com/in/syeda-nazneen-76525a320/)
+
+📺 **YouTube:** [Code With Nazneen](http://www.youtube.com/@CodewithNazneen-011)
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedaNazneen&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+
+### Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me for professional opportunities and collaborations.
+
 </div>
